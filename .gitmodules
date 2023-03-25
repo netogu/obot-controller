@@ -1,7 +1,3 @@
 [submodule "motorlib"]
   path = motorlib
   url = ../motorlib
-[submodule "calibration"]
-  path = calibration
-  url = ../calibration
-  shallow = true
